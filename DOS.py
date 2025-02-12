@@ -93,9 +93,9 @@ class MainLoop():
                 fucker(url, i + 1, in_line).start()
                 in_line = in_line[:-1]
         except:
-            print("\033[38;5;226mUsage: python3 main.py https://example.com\n")
+            print("\033[38;5;226mUsage: python3 Dos.py https://example.com\n")
         
-if name == 'main':
+if name == 'Dos':
     if sys.platform.startswith("linux"):
         os.system("clear")
     else:
