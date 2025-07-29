@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+requests
+cloudscraper
+httpx
+undetected-chromedriver
+psutil
+pysocks
